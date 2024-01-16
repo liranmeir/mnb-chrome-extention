@@ -1,0 +1,1 @@
+console.log('Content script for My Extension is running!');
